@@ -5,6 +5,9 @@
 
 The AI Text Summarizer is a Python-based web application that converts long text into shorter summaries using a pre-trained Natural Language Processing model from Hugging Face.
 
+<img width="1364" height="637" alt="image" src="https://github.com/user-attachments/assets/e4ffcc0e-7173-4353-9f78-db5c3ccb7580" />
+
+
 ## Objective
 
 To demonstrate text summarization using the Hugging Face Transformers pipeline.
@@ -25,6 +28,9 @@ To demonstrate text summarization using the Hugging Face Transformers pipeline.
 - Calculates text reduction percentage
 - Allows users to download the generated summary
 - Provides error handling
+
+<img width="1365" height="622" alt="image" src="https://github.com/user-attachments/assets/e005e715-3506-4920-a275-f6fc43d95f90" />
+
 
 ## Installation
 
